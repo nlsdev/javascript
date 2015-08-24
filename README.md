@@ -7,7 +7,7 @@
 
 Other Style Guides
 
-** Note! This is the ES6 version of the styleguide. NLS is currently not using ES6. Until we do please follow the [ES5](es5/) version of the styleguide.**
+**Note! This is the ES6 version of the styleguide. NLS is currently not using ES6. Until we do please follow the [ES5](es5/) version of the styleguide.**
 
  - [ES5](es5/)
 
