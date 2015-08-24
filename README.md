@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# NLS JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
@@ -6,10 +6,12 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Other Style Guides
+
+** Note! This is the ES6 version of the styleguide. NLS is currently not using ES6. Until we do please follow the [ES5](es5/) version of the styleguide.**
+
  - [ES5](es5/)
- - [React](react/)
- - [CSS & Sass](https://github.com/airbnb/css)
- - [Ruby](https://github.com/airbnb/ruby)
+
+
 
 ## Table of Contents
 
